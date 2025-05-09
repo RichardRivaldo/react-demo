@@ -1,0 +1,62 @@
+Problem Statement
+As an investment manager, I would want to have my own application to offer custom investment products to my customers
+
+Goals / Vision
+Help customers achieve their financial goals.
+Provide great transparency of customers' investments
+
+Stakeholders
+1. Investment Manager, being able to personalize and manage their funds.
+2. Users, being able to transact funds and track portfolio performances.
+
+Business Requirements
+1. A mobile application that can be used easily by the customers (supporting both iOS and Android).
+2. A back-office web application that enables me to personalize and manage all my mutual funds.
+   -> In the future, would want to do business metrics analysis (through transactions monitoring, etc.)
+3. This product should be compliant to the legal authorities.
+
+
+Core Requirements (MVP)
+
+Back-Office Application
+1. Product Management (Create, Modify, Personalize)
+2. Investment Portfolio Management (NAV Entries)
+3. Analytics Dashboard
+
+Mobile Application 
+1. Customer Onboarding (Registration, optional KYC process)
+2. Customer Portfolio Management (Tracking performances)
+3. Customer Transactions (Subscribe, Redeem)
+
+
+Task Division
+Tasks are divided by whether or not the features are available in back-office or mobile application
+
+
+Rollout Prioritization
+
+Phase 1
+BO -> Product and Investment Portfolio Management
+Mobile -> Customer Onboarding, Transactions, and Portfolio Tracking
+
+Phase 2
+BO -> Product Asset Allocation Manager, NAV Calculators
+Mobile -> KYC Integration, Transaction History, Performance Charting
+
+Phase 3
+BO -> Analytics Dashboard, Admin Functionalities
+Mobile -> Product Discovery, Investment Contents
+
+
+Improvements
+Risk Profiling
+Goal personalization
+Investment Thesis Engagements / Recommendation
+Retention CTAs
+
+
+Visibility
+- Whitelists Events
+- Public Events
+- Ads
+- Referrals
