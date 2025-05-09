@@ -17,3 +17,7 @@
 - Handling the extended version of the types -> ideally backend should be the one aggregating this, and the type definition could just help in identifying possible objects within the list of data.
 - Applying some memoizations.
 - And lots more!
+
+### Prompting
+
+- Please find the image [here](www.photopea.com/#iwBo7mKPf).
