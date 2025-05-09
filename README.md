@@ -20,4 +20,4 @@
 
 ### Prompting
 
-- Please find the image [here](www.photopea.com/#iwBo7mKPf).
+- Please find the prompting results in the `prompting` directory.
